@@ -9,7 +9,7 @@ This place is still very much a work in progress. If you encounter any issues or
 
 **Guidelines for new spaces**
 
-Spaces in Agora fall into one of three broad categories: Venues, Stores, and Hangouts.
+Spaces in Agora fall into one of three broad categories: Venues, Stores, and Lounges.
 
 *Venues*
 
@@ -19,6 +19,6 @@ Examples of venues include music clubs, theaters, classrooms, and presentation s
 
 Examples of stores include shops, showrooms, galleries, and avatar showcases. Shops are spaces for artists and creators to showcase their work and attract new customers.
 
-*Hangouts*
+*Lounges*
 
-Examples of hangouts include lounges, chillout areas, and game rooms. Hangouts are free-form gathering spaces that usually, but not always, include a video player for background music or group viewings.
+Examples of hangouts include hangouts, chillout areas, and game rooms. Lounges are free-form gathering spaces that usually, but not always, include a video player for background music or group viewings.
