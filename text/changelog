@@ -1,3 +1,9 @@
+Version 0.8.6
+---
+Added The Ready Room bar.
+Changelog board text now sourced from Github.
+Fixed portable DJ deck.
+-----
 Version 0.8.5
 ---
 Audiolink controller summon buttons work again.
@@ -31,9 +37,3 @@ Replaced master player with VideoTXL.
 Replaced keypads with AccessTXL keypads.
 Replaced microphones with TXL microphones.
 Added audio-reactive atmospheric phenomena.
------
-Version 0.7.4
----
-Added a host control panel to all venues.
-Removed Agora Theater.
-Added a secret venue.
