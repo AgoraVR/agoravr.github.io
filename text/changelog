@@ -1,3 +1,7 @@
+Version 0.8.7
+---
+Implemented Mochie shaders for most mall materials.
+-----
 Version 0.8.6
 ---
 Added The Ready Room bar.
@@ -30,10 +34,6 @@ Filesize optimizations.
 Version 0.8.1
 ---
 Added a kiosk on the concourse.
------
-Version 0.8.0
----
-Replaced master player with VideoTXL.
 Replaced keypads with AccessTXL keypads.
 Replaced microphones with TXL microphones.
 Added audio-reactive atmospheric phenomena.
