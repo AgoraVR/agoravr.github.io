@@ -1,0 +1,39 @@
+Version 0.8.5
+---
+Audiolink controller summon buttons work again.
+Added benches.
+Added billboards to background buildings.
+-----
+Version 0.8.4
+---
+Audiolink controller no longer a cursed object.
+Added USharpVideo toggle to venues in multi-venue mode.
+Added a portable DJ deck in the staff area.
+-----
+Version 0.8.3
+---
+Fixed screens remaining in toggled-off venues.
+Added screen toggle to venue control panels.
+Filesize optimizations.
+-----
+Version 0.8.2
+---
+Updated venue control panels.
+Filesize optimizations.
+-----
+Version 0.8.1
+---
+Added a kiosk on the concourse.
+-----
+Version 0.8.0
+---
+Replaced master player with VideoTXL.
+Replaced keypads with AccessTXL keypads.
+Replaced microphones with TXL microphones.
+Added audio-reactive atmospheric phenomena.
+-----
+Version 0.7.4
+---
+Added a host control panel to all venues.
+Removed Agora Theater.
+Added a secret venue.
