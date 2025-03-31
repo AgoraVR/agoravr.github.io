@@ -39,10 +39,3 @@ Version 0.8.2
 ---
 Updated venue control panels.
 Filesize optimizations.
------
-Version 0.8.1
----
-Added a kiosk on the concourse.
-Replaced keypads with AccessTXL keypads.
-Replaced microphones with TXL microphones.
-Added audio-reactive atmospheric phenomena.
