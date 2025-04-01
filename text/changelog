@@ -1,3 +1,9 @@
+Version 0.9.0
+---
+Added spawnpoint toggles to backroom. Hosts can now shift the world spawnpoint to certain venues.
+Venue control panels re-enabled.
+World published to Community Labs.
+-----
 Version 0.8.9
 ---
 Preparations for Community Labs launch.
@@ -33,9 +39,4 @@ Version 0.8.3
 ---
 Fixed screens remaining in toggled-off venues.
 Added screen toggle to venue control panels.
-Filesize optimizations.
------
-Version 0.8.2
----
-Updated venue control panels.
 Filesize optimizations.
