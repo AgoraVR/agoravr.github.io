@@ -1,3 +1,10 @@
+Version 0.10.0
+---
+Fixed spawnpoint toggles.
+Working escalators.
+Working elevators.
+Filesize optimizations.
+-----
 Version 0.9.1
 ---
 Added occlusion culling.
@@ -32,9 +39,3 @@ Version 0.8.5
 Audiolink controller summon buttons work again.
 Added benches.
 Added billboards to background buildings.
------
-Version 0.8.4
----
-Audiolink controller no longer a cursed object.
-Added USharpVideo toggle to venues in multi-venue mode.
-Added a portable DJ deck in the staff area.
