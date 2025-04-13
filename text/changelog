@@ -1,3 +1,8 @@
+Version 0.10.2
+---
+Minor texture changes.
+Filesize optimizations.
+-----
 Version 0.10.1
 ---
 Aesthetic changes.
@@ -38,9 +43,3 @@ Version 0.8.6
 Added The Ready Room bar.
 Changelog board text now sourced from Github.
 Fixed portable DJ deck.
------
-Version 0.8.5
----
-Audiolink controller summon buttons work again.
-Added benches.
-Added billboards to background buildings.
