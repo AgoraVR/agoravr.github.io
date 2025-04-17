@@ -1,3 +1,9 @@
+Version 0.10.3
+---
+Fixed some broken toggles.
+Private venues are now toggled off by default.
+Now advertising a new world I'm working on~
+-----
 Version 0.10.2
 ---
 Minor texture changes.
@@ -37,9 +43,3 @@ Removed buttons to toggle spaces by type.
 Version 0.8.7
 ---
 Implemented Mochie shaders for most mall materials.
------
-Version 0.8.6
----
-Added The Ready Room bar.
-Changelog board text now sourced from Github.
-Fixed portable DJ deck.
